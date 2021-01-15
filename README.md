@@ -2,8 +2,10 @@
 
 cd client
 npm install
+npm start
 
-cd..
+run new cmd
 
 cd server
 npm install
+npm start
